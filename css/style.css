@@ -100,6 +100,11 @@ footer {
   margin-top: 30px;
 }
 
+#hello {
+  color: red;
+  font-weight: bold;
+}
+
 #top-btn {
   position: fixed;
   bottom: 20px;
