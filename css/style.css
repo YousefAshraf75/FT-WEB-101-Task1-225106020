@@ -99,3 +99,13 @@ footer {
   color: white;
   margin-top: 30px;
 }
+
+#top-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 15px;
+  background-color: var(--main);
+  color: white;
+  text-decoration: none;
+}
