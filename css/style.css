@@ -102,7 +102,7 @@ footer {
 }
 
 #hello {
-  color: red;
+  color: var(--main);
   font-weight: bold;
 }
 
