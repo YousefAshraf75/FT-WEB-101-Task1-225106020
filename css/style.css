@@ -36,11 +36,11 @@ header {
   align-items: center;
   padding: 15px 30px;
   background-color: var(--main);
-  color: white;
+  color: var(--bg);
 }
 
 .links a {
-  color: white;
+  color: var(--bg);
   margin-left: 15px;
   text-decoration: none;
 }
@@ -97,7 +97,7 @@ footer {
   text-align: center;
   padding: 20px 20px 70px;
   background-color: var(--main);
-  color: white;
+  color: var(--bg);
   margin-top: 30px;
 }
 
@@ -112,6 +112,6 @@ footer {
   right: 20px;
   padding: 10px 15px;
   background-color: var(--top-btn);
-  color: white;
+  color: var(--bg);
   text-decoration: none;
 }
